@@ -1,0 +1,7 @@
+YURTLAR SOFRASINDA PUSU - KURULUM
+
+BILGISAYAR (Windows): Zip'i klasore cikar, Oyna-Windows.bat dosyasina cift tikla. Uygulama penceresinde tam ekran acilir, internet gerekmez.
+BILGISAYAR (Mac): Oyna-Mac.command dosyasini ac (ilk seferde sag tik > Ac).
+KAYIT: Otomatik kaydedilir; ana menude Kaydet butonu var. Telefon-bilgisayar arasi tasimak icin Ayarlar > Kayit kodu.
+TELEFON/TABLET: Oyun linkini ac > tarayici menusu > "Ana ekrana ekle" (cihazi yan cevir).
+  Klasoru Netlify Drop / GitHub Pages'e yuklersen "Uygulamayi yukle" ve cevrimdisi mod da calisir.
