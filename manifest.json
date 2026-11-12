@@ -1,0 +1,6 @@
+{
+"name": "Oyunum",
+"short_name": "Oyun",
+"start_url": "index.html",
+"display": "standalone"
+}
